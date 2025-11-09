@@ -7,8 +7,8 @@ This repository showcases a comprehensive **Sales Analysis Dashboard** designed 
 The primary goal of this analysis is to identify top-performing areas, potential weaknesses, and significant sales drivers to inform business strategy and operational efficiency.
 
 📂 Download `.pbix` file and open it with **Microsoft Power BI Desktop**.  
-👉 [Download USA_Sales_Analysis_dashboard.pbix](https://github.com/sujithts31618-ui/Sales_Analysis_Performance_USA/blob/main/USA_Sales_Analysis_dashboard.pbix?raw=true)
 
+- [USA_Sales_Analysis_dashboard.pbix](USA_Sales_Analysis_dashboard.pbix)
 
 ---
 
