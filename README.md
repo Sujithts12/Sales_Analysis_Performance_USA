@@ -18,18 +18,15 @@ The dashboard is structured into several interconnected views, providing a multi
 
 ## 📊 Report Snapshot (Power BI DESKTOP)
 1.
-![Sales_Analysis_Performance_USA](https://raw.githubusercontent.com/Sujithts12/Power_BI_Bike_sales/main/sales1.p)
+![Sales_Analysis_Performance_USA](https://raw.githubusercontent.com/Sujithts12/Sales_Analysis_Performance_USA/main/sales1.jpeg)
 2.
-![Sales_Analysis_Performance_USA](https://raw.githubusercontent.com/Sujithts12/Power_BI_Bike_sales/main/Screenshot%202025-08-13%20193457.png)
+![Sales_Analysis_Performance_USA](https://raw.githubusercontent.com/Sujithts12/Sales_Analysis_Performance_USA/main/sales2.jpeg)
 3.
-![Sales_Analysis_Performance_USA](https://raw.githubusercontent.com/Sujithts12/Power_BI_Bike_sales/main/Screenshot%202025-08-13%20193520.png)
+![Sales_Analysis_Performance_USA](https://raw.githubusercontent.com/Sujithts12/Sales_Analysis_Performance_USA/main/sales3.jpeg)
 4.
-![Sales_Analysis_Performance_USA](https://raw.githubusercontent.com/Sujithts12/Power_BI_Bike_sales/main/Screenshot%202025-08-13%20193545.png)
+![Sales_Analysis_Performance_USA](https://raw.githubusercontent.com/Sujithts12/Sales_Analysis_Performance_USA/main/sales4.jpeg)
 5.
-![Sales_Analysis_Performance_USA](https://raw.githubusercontent.com/Sujithts12/Power_BI_Bike_sales/main/Screenshot%202025-08-13%20193653.png)
-6.
-![Sales_Analysis_Performance_USA](https://raw.githubusercontent.com/Sujithts12/Power_BI_Bike_sales/main/Screenshot%202025-08-13%20193728.png)
-
+![Sales_Analysis_Performance_USA](https://raw.githubusercontent.com/Sujithts12/Sales_Analysis_Performance_USA/main/sales5.jpeg)
 
 
 ### 1. Sales Performance Summary (Report View)
